@@ -1,5 +1,8 @@
 # CrackMe - Reverse Engineering Practice
 
+# Author
+# Ivannnnnnnnnnnn  https://github.com/Ivannnnnnnnnnnn
+
 ## Overview
 **CrackMe** is a simple password-cracking challenge built with Python and `tkinter`. It provides a basic user interface where you must guess the correct password to proceed. The program mimics a reverse engineering exercise where you need to figure out the correct password to unlock the application.
 
