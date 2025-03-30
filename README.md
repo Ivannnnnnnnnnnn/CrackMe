@@ -11,7 +11,7 @@ This project is designed for educational purposes, specifically for those practi
 ## Features
 - **Password Prompt**: The user is asked to enter a password.
 - **Limited Attempts**: The user has 3 attempts to enter the correct password.
-- **Windowed GUI**: A clean, modern `tkinter` user interface.
+- **Windowed GUI**: A clean user interface.
 - **Success/Failure**: If the correct password is entered, a success message is shown. If the wrong password is entered, an error message appears, and the attempts counter decreases.
 - **Game Over**: After 3 incorrect attempts, the program will display a "Game Over" message and close.
 
