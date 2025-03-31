@@ -8,6 +8,9 @@
 
 This project is designed for educational purposes, specifically for those practicing password cracking and reverse engineering techniques.
 
+![image](https://github.com/user-attachments/assets/8f079c46-dfb0-4688-b459-d20f7a9b0cb4)
+
+
 ## Features
 - **Password Prompt**: The user is asked to enter a password.
 - **Limited Attempts**: The user has 3 attempts to enter the correct password.
